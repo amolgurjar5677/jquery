@@ -1,2 +1,3 @@
 Sample File to check git pull operation.
 Editing for git push operation.
+Edited.
